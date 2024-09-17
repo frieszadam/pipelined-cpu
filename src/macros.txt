@@ -1,0 +1,12 @@
+`timescale 1 ps / 1 ps
+`define DELAY #(50)
+`define PASSB 0
+`define ADD 2
+`define SUB 3
+`define AND 4
+`define OR 5
+`define XOR 6
+`define I 0
+`define B 1
+`define CB 2
+`define D 3
